@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "436253889878",
+    "firebase_url": "https://neweggs-e739d.firebaseio.com",
+    "project_id": "neweggs-e739d",
+    "storage_bucket": "neweggs-e739d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436253889878:android:268374e2259e9787",
+        "android_client_info": {
+          "package_name": "com.example.hp.eggs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436253889878-es92al6uiaiqqqto91pfn4amr83n27u4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hp.eggs",
+            "certificate_hash": "e1268d2e1532efafc7ff18317a78bbacab3862ac"
+          }
+        },
+        {
+          "client_id": "436253889878-0j3b179v8a5nt9flhpih21n5m6tbc6mi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ-OcPVGAOLXqx0qvvalU-C8znvkVti-A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436253889878-0j3b179v8a5nt9flhpih21n5m6tbc6mi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
